@@ -1,0 +1,11 @@
+numpy
+opencv-python
+tkintermapview
+pillow
+matplotlib
+tkinter
+requests
+requests-cache
+retry-requests
+pandas
+openmeteo-requests
