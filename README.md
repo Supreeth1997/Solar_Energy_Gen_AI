@@ -38,7 +38,7 @@ The **Advanced Solar Potential Analyzer** is a Python application designed to es
 ## Usage
 1. Run the application:
    ```bash
-   python solar_potential_analyzer.py
+   python SolarEnergy_Pred.py
    ```
 
 2. Enter a valid Mapbox API key in the designated field to enable map features.
