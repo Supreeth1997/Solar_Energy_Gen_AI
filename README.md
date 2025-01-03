@@ -21,7 +21,7 @@ The **Advanced Solar Potential Analyzer** is a Python application designed to es
 1. Clone the repository:
    ```bash
    git clone https://github.com/Supreeth1997/Solar_Energy_Gen_AI.git
-   cd solar-potential-analyzer
+   cd Solar_Energy_Gen_AI
    ```
 
 2. Install the required dependencies:
